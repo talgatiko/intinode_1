@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "original_language": "ru",
+  "version": "v4",
+  "version_date": "2026-10-09",
+  "translation_date": "2026-10-15",
+  "source": {
+    "file": "README.md",
+    "language": "ru",
+    "repository": "https://github.com/talgatiko/intinode_1.git",
+    "commit": "e44ff3367da805aa9ff55131150f21a562cde822",
+    "sha256": "e53829c93e836cb4412c1fbf135a8937431016b4973ae90d49f3a5d8e5ecf21a"
+  },
+  "translation": {
+    "file": "README.en.md",
+    "language": "en",
+    "sha256": "22738bb5e0447af147dea0eb5836a3f4b81ce490b6ab9f1d1f6d2b71a2eb0957"
+  },
+  "draft_package": "drafts/20261015-intinode-translation",
+  "translation_scope": "complete article; both parts; all 14 technical sections",
+  "source_authority": "Russian source is authoritative",
+  "publication_status": "not_started"
+}
